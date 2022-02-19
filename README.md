@@ -5,15 +5,15 @@ My organization is looking to gauge the success of pay-for-reviews on amazon pro
 
 ## Here's what we found
 
-For the cellular accessories category we found a total of 61,724 reviews. 
+ - For the cellular accessories category we found a total of 61,724 reviews. 
 
 https://github.com/JohnJohnson913/amazon_vine_analysis/blob/6169021f7a15e339bc321e768e29096fa608f377/total_reviews.png
 
-Of the total reviews 585 were paid. 
+ - Of the total reviews 585 were paid. 
 
 https://github.com/JohnJohnson913/amazon_vine_analysis/blob/6169021f7a15e339bc321e768e29096fa608f377/total_paid_reviews.png
 
-Though a very small percentage of paid reviews we should still be able to verify objectivity.  To much surprise, a lesser percentage of 5 star rated reviews were producted from the paid reviews.  It's important to note that the paid reviews were not incentivised to produce a positive review.
+ - Though a very small percentage of paid reviews we should still be able to verify objectivity.  To much surprise, a lesser percentage of 5 star rated reviews were producted from the paid reviews.  It's important to note that the paid reviews were not incentivised to produce a positive review.
 
 https://github.com/JohnJohnson913/amazon_vine_analysis/blob/6169021f7a15e339bc321e768e29096fa608f377/paid_vs_unpaid_total.png
 https://github.com/JohnJohnson913/amazon_vine_analysis/blob/6169021f7a15e339bc321e768e29096fa608f377/paid_vs_unpaid_percentage.png
